@@ -136,12 +136,7 @@ Find security vulnerabilities, compliance issues, and infrastructure misconfigur
 </td>
 <td>
 <a href="https://github.com/Checkmarx/kics/blob/master/docs/platforms.md#terraform">
-<img alt="OpenTofu" src="docs/img/logo-opentofu-dark.png" width="160">
-</a>
-</td>
-<td>
-<a href="https://github.com/Checkmarx/kics/blob/master/docs/platforms.md#bicep">
-<img alt="Bicep" src="docs/img/logo-bicep.png" width="85">
+<img alt="OpenTofu" src="docs/img/logo-opentofu-dark2.png" width="160">
 </a>
 </td>
 </tr></table>
