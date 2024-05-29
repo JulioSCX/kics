@@ -182,6 +182,11 @@ Find security vulnerabilities, compliance issues, and infrastructure misconfigur
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="NIFCloud" src="docs/img/logo-nifcloud.png" width="110">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="TencentCloud" src="docs/img/logo-tencentcloud.png" width="180">
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="docs/img/logo-tencentcloud.png" width="180">
+<source media="(prefers-color-scheme: dark)" srcset="docs/img/logo-tencentcloud-dark.png" width="180">
+<img alt="TencentCloud" src="docs/img/logo-tencentcloud.png" width="180">
+</picture>
 &nbsp;&nbsp;&nbsp;
 </p>
 
