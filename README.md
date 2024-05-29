@@ -32,17 +32,17 @@ Find security vulnerabilities, compliance issues, and infrastructure misconfigur
 <td>
 <a href="https://github.com/Checkmarx/kics/blob/master/docs/platforms.md#terraform">
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="ogo-terraform-dark.pn alt="Terraform" width="120" /><source medi
-a="(prefers-color-scheme: light)" dark="ogo-terraformterraform-dark.png" alt="Terraform" width="120" />
-<img src="docs/img/logo-terraform-dark.pn alt="Terraform" width="120" />
+<source media="(prefers-color-scheme: light)" srcset="docs/img/logo-terraform.png" alt="Terraform" width="120" />
+<source media="(prefers-color-scheme: dark)" srcset="docs/img/logo-terraform-dark.png" alt="Terraform" width="120" />
+<img src="docs/img/logo-terraform.png" alt="Terraform" width="120" />
 </picture>
 </a>
 </td>
 <td>
 <a href="https://github.com/Checkmarx/kics/blob/master/docs/platforms.md#kubernetes">
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="docs/img/logo-kubernetes.png" width="160">
-<source media="(prefers-color-scheme: dark)" srcset="docs/img/logo-kubernetes-dark.png" width="160">
+<source media="(prefers-color-scheme: light)" srcset="docs/img/logo-k8s.png" width="160">
+<source media="(prefers-color-scheme: dark)" srcset="docs/img/logo-k8s-dark.png" width="160">
 <img alt="Kubernetes" src="docs/img/logo-kubernetes.png" width="160">
 </picture>
 </a>
