@@ -175,7 +175,11 @@ Find security vulnerabilities, compliance issues, and infrastructure misconfigur
 
 ### Beta Features
 <p align="center">
-<img alt="Databricks" src="docs/img/logo-databricks-dark.png" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="docs/img/logo-databricks.png" width="160">
+<source media="(prefers-color-scheme: dark)" srcset="docs/img/logo-databricks-dark.png" width="160">
+<img alt="Databricks" src="docs/img/logo-databricks.png" width="160">
+</picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="NIFCloud" src="docs/img/logo-nifcloud.png" width="110">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="TencentCloud" src="docs/img/logo-tencentcloud.png" width="180">
 &nbsp;&nbsp;&nbsp;
