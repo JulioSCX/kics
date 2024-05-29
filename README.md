@@ -31,12 +31,14 @@ Find security vulnerabilities, compliance issues, and infrastructure misconfigur
 <table align="center"><tr>
 <td>
 <a href="https://github.com/Checkmarx/kics/blob/master/docs/platforms.md#terraform">
-<img src="docs/img/logo-terraform-dark.png" alt="Terraform" width="120" />
+<img src="docs/img/logo-terraform.png#gh-light-mode-only" alt="Terraform" width="120" />
+<img src="docs/img/logo-terraform-dark.png#gh-dark-mode-only" alt="Terraform" width="120" />
 </a>
 </td>
 <td>
 <a href="https://github.com/Checkmarx/kics/blob/master/docs/platforms.md#kubernetes">
-<img alt="Kubernetes" src="docs/img/logo-k8s-dark.png" width="160">
+<img alt="Kubernetes" src="docs/img/logo-kubernetes.png#gh-light-mode-only" width="160">
+<img alt="Kubernetes" src="docs/img/logo-kubernetes-dark.png#gh-dark-mode-only" width="160">
 </a>
 </td>
 <td>
@@ -48,17 +50,20 @@ Find security vulnerabilities, compliance issues, and infrastructure misconfigur
 <table align="center"><tr>
 <td>
 <a href="https://github.com/Checkmarx/kics/blob/master/docs/platforms.md#cloudformation">
-<img alt="CloudFormation" src="docs/img/logo-cf-dark.png" width="150">
+<img alt="CloudFormation" src="docs/img/logo-cf.png#gh-light-mode-only" width="150">
+<img alt="CloudFormation" src="docs/img/logo-cf-dark.png#gh-dark-mode-only" width="150">
 </a>
 </td>
 <td>
 <a href="https://github.com/Checkmarx/kics/blob/master/docs/platforms.md#ansible">
-<img alt="Ansible" src="docs/img/logo-ansible-dark2.png" width="150">
+<img alt="Ansible" src="docs/img/logo-ansible.png#gh-light-mode-only" width="150">
+<img alt="Ansible" src="docs/img/logo-ansible-dark2.png#gh-dark-mode-only" width="150">
 </a>
 </td>
 <td>
 <a href="https://github.com/Checkmarx/kics/blob/master/docs/platforms.md#helm">
-<img alt="Helm" src="docs/img/logo-helm-dark.png" width="60">
+<img alt="Helm" src="docs/img/logo-helm.png#gh-light-mode-only" width="60">
+<img alt="Helm" src="docs/img/logo-helm-dark.png#gh-dark-mode-only" width="60">
 </a>
 </td>
 </tr></table>
@@ -114,12 +119,14 @@ Find security vulnerabilities, compliance issues, and infrastructure misconfigur
 </td>
 <td>
 <a href="https://github.com/Checkmarx/kics/blob/master/docs/platforms.md#pulumi">
-<img alt="Pulumi" src="docs/img/logo-pulumi-dark.png" width="145">
+<img alt="Pulumi" src="docs/img/logo-pulumi.png#gh-light-mode-only" width="145">
+<img alt="Pulumi" src="docs/img/logo-pulumi-dark.png#gh-dark-mode-only" width="145">
 </a>
 </td>
 <td>
 <a href="https://github.com/Checkmarx/kics/blob/master/docs/platforms.md#serverlessfw">
-<img alt="ServerlessFW" src="docs/img/logo-serverlessfw-dark.png" width="170">
+<img alt="ServerlessFW" src="docs/img/logo-serverlessfw.png#gh-light-mode-only" width="170">
+<img alt="ServerlessFW" src="docs/img/logo-serverlessfw-dark.png#gh-dark-mode-only" width="170">
 </a>
 </td>
 </tr></table>
@@ -136,7 +143,8 @@ Find security vulnerabilities, compliance issues, and infrastructure misconfigur
 </td>
 <td>
 <a href="https://github.com/Checkmarx/kics/blob/master/docs/platforms.md#terraform">
-<img alt="OpenTofu" src="docs/img/logo-opentofu-dark2.png" width="160">
+<img alt="OpenTofu" src="docs/img/logo-opentofu.png#gh-light-mode-only" width="160">
+<img alt="OpenTofu" src="docs/img/logo-opentofu-dark2.png#gh-dark-mode-only" width="160">
 </a>
 </td>
 </tr></table>
